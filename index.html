@@ -3,5 +3,6 @@ layout: default
 ---
 
 <div class="home">
-  {% markdown site.md %}
+	{% capture site %}{% include site.md %}{% endcapture %}
+	{{ site | markdownify }}
 </div>
