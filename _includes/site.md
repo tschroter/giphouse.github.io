@@ -24,6 +24,7 @@ The slides from the first lecture will be uploaded soon!
 Schedule
 --------
 The schedule is also available on [Google Drive](https://docs.google.com/spreadsheets/d/1TBm2N4-du8Qb4L2JGDqDSfXNFwN5u7qSzniuqBBGBrE/pubhtml?gid=884926167&amp;single=true&amp;widget=true&amp;headers=false){:target="_blank"}
+
 <iframe src="https://docs.google.com/spreadsheets/d/1TBm2N4-du8Qb4L2JGDqDSfXNFwN5u7qSzniuqBBGBrE/pubhtml?gid=884926167&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400"></iframe> 
 
 ***
