@@ -1,37 +1,7 @@
 ---
 layout: default
 ---
-<div class="col-sm-12">
-    <div class="page">
-        {% for post in site.posts %}
-            {% if post.type == "news" %}
-            <div class="page-item">
-                <div class="col-sm-8">
-                    <ul class="page-item-title">
-                        <li><time class="timeago meta" datetime="{{ post.date |  date: "%A %-d %B %Y" }}">{{ post.date }}</time>
-                        <li><a class="title" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-12 page-item-body">
-                    {{post.excerpt}}
-                </div>
-            </div>
-            {% endif %}
-        {% endfor %}
-    </div>
+
+<div class="home">
+  {% markdown site.md %}
 </div>
-<script>
-$(document).ready(function() {
-    $(".page").children().first().find(".page-item-body").css( "display", "block" );
-    $(".page").children().first().find(".pib-indicator")
-        .find("i").toggleClass("fa-compress").toggleClass("fa-expand");
-
-    $(".page-item .pib-indicator").click(function() {
-        var preview = $(this);
-        preview.find("i").toggleClass("fa-expand").toggleClass("fa-compress");
-        $(this).closest(".page-item").find(".page-item-body").toggle("slow", function() {});
-    });
-});
-</script>
-
-<iframe src="https://docs.google.com/spreadsheets/d/1TBm2N4-du8Qb4L2JGDqDSfXNFwN5u7qSzniuqBBGBrE/pubhtml?gid=884926167&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

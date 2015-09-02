@@ -1,23 +1,14 @@
-name: GiPHouse
-description:  Software Development in Start-ups and Entrepeneurship
+# Site settings
+title: Welcome to GiPHouse!
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+       GiPHouse is a unique student-run company that develops
+       software and practices entrepreneurship at the Radboud
+       University.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: giphouse
+github_username:  giphouse
 
-sass:
-  sass_dir: assets/css/_sass
-  style: :compressed
-
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
-
-url: http://giphouse.github.io
-permalink: /:year/:month/:title/
-owner:
-    name: #
-    twitter: #
-    github: #
-    disqus_shortname: #
-
-ga_id: #
-ga_username: #
-
-timezone: Europe/Amsterdam
+# Build settings
+markdown: kramdown
