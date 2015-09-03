@@ -6,8 +6,9 @@ Welcome new entrepeneurs and developers! For the first week, you need to come up
 with an idea for your bicycle project.
 
 Please make a Github account, if you don''t have one. Also, please fill in the
-Google form as soon as possible, so that we can create an account for you on
-Azure and add you to the Github organization.
+[Google form](http://goo.gl/forms/ZcXhM78w9i) as soon as possible, 
+so that we can create an account for you on Azure and add you to the Github 
+organization.
 
 ***
 
