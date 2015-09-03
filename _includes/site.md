@@ -15,8 +15,11 @@ organization.
 Slides
 ------
 
-* [Lecture 1 - Introduction](https://drive.google.com/open?id=0B6Zf71MLHzExbklha3VoZXVwUW8)
-* Lecture 2 - Invited lectures, no slides available!
+| week | SDS |     | SDE |     |
+|------|-----|-----|-----|-----|
+|      | *Wed* | *Thu* | *Wed* | *Thu* |
+| 36   | [Lecture 1 - Introduction](https://drive.google.com/open?id=0B6Zf71MLHzExbklha3VoZXVwUW8) | Invited lectures, no slides available  | [Lecture 1 - Introduction](https://drive.google.com/open?id=0B6Zf71MLHzExbklha3VoZXVwUW8) | Invited lectures, no slides available |
+| 37   |     |     |     |     |
 
 ***
 
