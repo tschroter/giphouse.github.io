@@ -14,11 +14,9 @@ organization.
 
 Slides
 ------
-The slides are always available in the pdf directory of our [Github repository](https://github.com/GipHouse/giphouse.github.io).
-You can clone that repository for easy access.
 
-### First lecture ###
-The slides from the first lecture will be uploaded soon!
+* [Lecture 1 - Introduction](https://drive.google.com/open?id=0B6Zf71MLHzExbklha3VoZXVwUW8)
+* Lecture 2 - Invited lectures, no slides available!
 
 ***
 
