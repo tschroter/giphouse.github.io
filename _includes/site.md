@@ -1,6 +1,22 @@
 News
 ---------------------
 
+### Azure and Github account instructions ### 
+As was told in the lecture we are going to work with Azure and Github this
+semester. As a result gets every GiPHouse team a private Github repository and
+an Azure pass with $100/month credit.
+
+We've mailed you account details and an Azure access code, which you need to share
+within your team.
+
+You can activate your Azure account on:
+[http://www.microsoftazurepass.com](http://www.microsoftazurepass.com)
+
+After activation, you can login to:
+[https://manage.windowsazure.com](https://manage.windowsazure.com), and play
+around! Try to create a simple application, and host it on the cloud environment
+as a first step. 
+
 ### First week tasks ###
 Welcome new entrepeneurs and developers! For the first week, you need to come up
 with an idea for your bicycle project.
