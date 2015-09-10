@@ -34,8 +34,9 @@ Slides
 | week | SDS |     | SDE |     |
 |------|-----|-----|-----|-----|
 |      | *Wed* | *Thu* | *Wed* | *Thu* |
-| 36   | [Lecture 1 - Introduction](https://drive.google.com/open?id=0B6Zf71MLHzExbklha3VoZXVwUW8) | Invited lectures, no slides available  | [Lecture 1 - Introduction](https://drive.google.com/open?id=0B6Zf71MLHzExbklha3VoZXVwUW8) | Invited lectures, no slides available |
-| 37   |     |     |     |     |
+| 36   | [Introduction](https://drive.google.com/open?id=0B6Zf71MLHzExbklha3VoZXVwUW8) | Invited lectures, no slides available  | [Introduction](https://drive.google.com/open?id=0B6Zf71MLHzExbklha3VoZXVwUW8) | Invited lectures, no slides available |
+| 37   | [Software architectures for the cloud](https://drive.google.com/open?id=0B6Zf71MLHzExRGMtMGt5akE0SUE) | [Programming the cloud](https://drive.google.com/open?id=0B6Zf71MLHzExRU4talhwR1dKb28)  | [Software architectures for the cloud](https://drive.google.com/open?id=0B6Zf71MLHzExRGMtMGt5akE0SUE) | [Programming the cloud](https://drive.google.com/open?id=0B6Zf71MLHzExRU4talhwR1dKb28)|
+| 38   |     |     |     |     |
 
 ***
 
