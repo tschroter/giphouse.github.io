@@ -1,8 +1,17 @@
 ---
-layout: default
+layout: index
+title: Home
+permalink: /
 ---
 
-<div class="home">
-	{% capture site %}{% include site.md %}{% endcapture %}
-	{{ site | markdownify }}
+{% include portfolio.html title="Currently running projects" limit=10 %}
+<br />
+<div class="container">
+    <div class="row centered">
+        <div class="col-xs-12">
+            <h3><a style="color: inherit;" href="https://twitter.com/giphouse">Tweets by @Giphouse</a></h3>
+            <a class="twitter-timeline"  href="https://twitter.com/giphouse" data-widget-id="653594921694294016" data-chrome="noheader">Tweets by @giphouse</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><br /><br />
+        </div>
+    </div>
 </div>
