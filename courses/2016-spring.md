@@ -1,7 +1,7 @@
 ---
 layout: content
 title: GiPHouse 2016 spring course web page
-permalink: /courses/2016-sprint/
+permalink: /courses/2016-spring/
 ---
 
 ***
