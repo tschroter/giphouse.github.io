@@ -12,7 +12,7 @@ Slides
 | week |  SE | SE+SDM | SDM |
 |------|-----|--------|-----|
 |   5  |     | [Introduction](https://drive.google.com/file/d/0B8I2nnZnb2JpQklid0lUelZRU2M/view?usp=sharing) | [SMART Requirements 2.0](https://drive.google.com/file/d/0B-PvRCEtmcVvNEo2UGFCOGZnMXM/view?usp=sharing) |
-|   6  |     |        |     |
+|   6  |     |   [Req+Test](https://drive.google.com/open?id=0B4zOR_oYNgc8bEtOX1QxbFRPYzg)     |     |
 
 ***
 
