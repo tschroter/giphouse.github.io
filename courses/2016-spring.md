@@ -21,7 +21,7 @@ Schedule
 --------
 The schedule is also available on [Google Drive](https://drive.google.com/open?id=1j9YfE2c06KChwo0k2bpPAexqj95AP-opWHK95LKC0c8){:target="_blank"}
 
-<iframe src="https://drive.google.com/open?id=1j9YfE2c06KChwo0k2bpPAexqj95AP-opWHK95LKC0c8" width="100%" height="700"></iframe> 
+<iframe style="width: 100%; height: 1000px" src="https://docs.google.com/spreadsheets/d/1j9YfE2c06KChwo0k2bpPAexqj95AP-opWHK95LKC0c8/pubhtml?gid=884926167&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
 
 ***
 
