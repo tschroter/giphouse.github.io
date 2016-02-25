@@ -13,7 +13,8 @@ Slides
 |------|-----|--------|-----|
 |   5  |     | [Introduction](https://drive.google.com/file/d/0B8I2nnZnb2JpQklid0lUelZRU2M/view?usp=sharing) | [SMART Requirements 2.0](https://drive.google.com/file/d/0B-PvRCEtmcVvNEo2UGFCOGZnMXM/view?usp=sharing) |
 |   6  |     |   [Req+Test](https://drive.google.com/open?id=0B4zOR_oYNgc8bEtOX1QxbFRPYzg)     | [Projects & Project Management](https://docs.google.com/document/d/1AFgPrHN0aol1aLvFU5CiYwkPWHu2I48oskv9MyPwkL8/edit?usp=sharing)    |
-|   7  |     | [Software Engineering Lifecycle](https://drive.google.com/open?id=0B6Zf71MLHzExWm9rS3hJcm5FTlk)    |
+|   7  |     | [Software Engineering Lifecycle](https://drive.google.com/open?id=0B6Zf71MLHzExWm9rS3hJcm5FTlk)    | [Project Control](https://docs.google.com/document/d/116o9hX757u4gy7rY4Uj-VcVP7HZxquQV7d-2rQE5SYg/edit?usp=sharing) |
+|   8  |     | Project controls | Getting the software development baseline SMART |
 
 ***
 
