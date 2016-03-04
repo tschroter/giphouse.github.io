@@ -16,7 +16,7 @@ Slides
 |   7  |     | [Software Engineering Lifecycle](https://drive.google.com/open?id=0B6Zf71MLHzExWm9rS3hJcm5FTlk)    | [Project Control](https://docs.google.com/document/d/116o9hX757u4gy7rY4Uj-VcVP7HZxquQV7d-2rQE5SYg/edit?usp=sharing) |
 |   8  |     | [Project controls](https://drive.google.com/file/d/0B-PvRCEtmcVvYnRFV0FjRGN3UnM/view?usp=sharing) | [Getting the software development baseline SMART](https://docs.google.com/document/d/1lu0e1lgL-vRyv9mWym9yAeH99Oy8ZB6h-tTtGgWXdVw/edit?usp=sharing) |
 |   9  |     |        | [Contracts vs Test & Acceptance](https://docs.google.com/document/d/1Q4lIqgWMMbFryKruQiruflaQABDa5oVboiCynF41NyY/edit?usp=sharing) |
-|  10  |     | Version Control | Structured testing |
+|  10  | Version Control | | Structured testing |
 
 ***
 
