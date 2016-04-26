@@ -18,6 +18,8 @@ Slides
 |   9  |     |        | [Contracts vs Test & Acceptance](https://docs.google.com/document/d/1Q4lIqgWMMbFryKruQiruflaQABDa5oVboiCynF41NyY/edit?usp=sharing) |
 |  10  | [Software design](https://drive.google.com/open?id=0B6Zf71MLHzExRU1ic0FEbnRXT2M) | | Structured testing |
 |  11  | [Software architecture](https://drive.google.com/open?id=0B6Zf71MLHzExRU1ic0FEbnRXT2M) | | |
+|  12  | [Software testing](https://drive.google.com/open?id=0B6Zf71MLHzExZU00SG9mVE03Mm8) | | |
+|  17  | [Software building](https://drive.google.com/open?id=0B6Zf71MLHzExcUUwWEFoM0p6Qlk) | | |
 
 ***
 
